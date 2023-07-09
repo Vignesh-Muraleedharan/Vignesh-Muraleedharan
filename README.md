@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vignesh-Muraleedharan
 - 👀 I’m interested in Python, hacking
-- 🌱 I’m currently learning Grade 12
-- 💞️ I’m looking to collaborate on a python programs
+- 🌱 I’m currently in my 2nd year UG
+- 💞️ I’m looking to collaborate on a python,C,C++,Java programs
 - 📫 How to reach me vigneshmuraleedharan@protonmail.com
 
 <!---
